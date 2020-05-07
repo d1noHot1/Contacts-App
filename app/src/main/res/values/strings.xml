@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Contacts App</string>
+    <string name="loading_please_wait">Loading...please wait...</string>
+    <string name="forgot_password_reset_here">Forgot Password? Reset here</string>
+    <string name="login">Login</string>
+    <string name="register">Register</string>
+    <string name="create_contact">Create contact</string>
+    <string name="list_of_contacts">List of contacts</string>
+    <string name="create_new_contact">Create new contact</string>
+    <string name="contacts">Contacts</string>
+    <string name="logout">Logout</string>
+</resources>
