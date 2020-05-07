@@ -15,7 +15,7 @@ This application was made following Android application development course from 
 
 
 
-## LOGIC VIEW
+## LOGICAL VIEW
 
 
 
