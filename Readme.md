@@ -18,7 +18,7 @@ This application was made following Android application development course from 
 ## LOGICAL VIEW
 
 
-<p align="center"> <img src="https://ibb.co/yNpBvqQ"> </p>
+<p align="center"> <img src="https://imgur.com/6uH3YUo"> </p>
 
 
 
