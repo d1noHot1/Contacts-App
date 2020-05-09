@@ -1,8 +1,8 @@
-# CONTACTS APPLICATION
+# CONTACTS ANDROID APPLICATION
 
 
 
-Application for creating new Contact with informations such as contact name, number and e-mail adress.
+Android application for creating new Contact with informations such as contact name, number and e-mail adress.
 
 
 
