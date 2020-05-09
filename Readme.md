@@ -17,7 +17,7 @@ This application was made following Android application development course from 
 
 ## LOGICAL VIEW
 
-<img src="https://raw.githubusercontent.com/d1noHot1/Contacts-App/master/LogicalView-ContactsApp.jpg">
+<center><img src="https://raw.githubusercontent.com/d1noHot1/Contacts-App/master/LogicalView-ContactsApp.jpg"></center>
 
 
 
